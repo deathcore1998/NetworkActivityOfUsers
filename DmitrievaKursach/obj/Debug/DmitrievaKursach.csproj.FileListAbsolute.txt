@@ -1,0 +1,11 @@
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\bin\Debug\DmitrievaKursach.exe.config
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\bin\Debug\DmitrievaKursach.exe
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\bin\Debug\DmitrievaKursach.pdb
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.csproj.AssemblyReference.cache
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.Properties.Resources.resources
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.csproj.GenerateResource.cache
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.csproj.CoreCompileInputs.cache
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.exe
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.pdb
+C:\Users\AlexWells\source\repos\DmitrievaKursach\DmitrievaKursach\obj\Debug\DmitrievaKursach.MainMenu.resources
